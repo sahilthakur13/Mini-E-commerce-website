@@ -1,0 +1,9 @@
+#card{
+    height:450px !important;
+    width: auto;
+}
+#img{
+    height: 290px;
+    object-fit: contain;
+    overflow: hidden;
+}
